@@ -40,5 +40,5 @@ java index
 
 ## Meta
 
-#Joana Santos Martins – joana.ufes@gmail.com
-#Angelo
+#### Joana Santos Martins 
+#### Ângelo Mendonça Frechian
