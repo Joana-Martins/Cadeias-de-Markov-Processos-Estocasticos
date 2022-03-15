@@ -41,6 +41,9 @@ java index
 ```
 4 - Os resultados estarão na pasta
 
+## Gráfico Auxiliar
+![Gráfico comparativo](https://docs.google.com/document/d/e/2PACX-1vSndGXzJuh8jKjRNkjujseLUIR30nWh0_M8bbljupFjOf-AO_j9dLVDZ0NuxD-4KAKE5ONIprAcyTly/pub)
+
 ## Meta
 
 #### Joana Santos Martins 
