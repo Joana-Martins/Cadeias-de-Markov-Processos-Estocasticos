@@ -9,7 +9,7 @@ O projeto tem como objetivo implementar cadeias de Markov em simulações de 30 
 
 ## Execução
 
-#Eclipse:
+## Eclipse:
 
 1 - Abrir a versão atual do Eclipse(2021-12)
 
@@ -23,7 +23,7 @@ O projeto tem como objetivo implementar cadeias de Markov em simulações de 30 
 
 6 - O resultado estará no "log.txt"
 
-#OS X & Linux 
+### OS X & Linux 
 1 - Verifique se o java está instalado:
 ```sh
 java -version  
