@@ -1,0 +1,827 @@
+=============LOGS==============
+===========================NOVO JOGO================================
+Jogo 1
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 2
+Primeira Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+B wins
+===========================NOVO JOGO================================
+Jogo 3
+Primeira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+30-15
+40-15
+A wins
+===========================NOVO JOGO================================
+Jogo 4
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+15-30
+15-40
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+Love-30
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 5
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+40-15
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 6
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+30-15
+40-15
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 7
+Primeira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 8
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+A wins
+===========================NOVO JOGO================================
+Jogo 9
+Primeira Partida:
+0-0
+Love-15
+15-15
+30-15
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 10
+Primeira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+30-15
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 11
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+15-30
+15-40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 12
+Primeira Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 13
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+40-15
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 14
+Primeira Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+B wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 15
+Primeira Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+Love-40
+15-40
+B wins
+===========================NOVO JOGO================================
+Jogo 16
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 17
+Primeira Partida:
+0-0
+Love-15
+Love-30
+15-30
+15-40
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 18
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+15-30
+15-40
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+30-15
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 19
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+40-15
+A wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+Love-40
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 20
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+40-15
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 21
+Primeira Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+===========================NOVO JOGO================================
+Jogo 22
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+40-15
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+15-Love
+30-Love
+30-15
+Deuce
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 23
+Primeira Partida:
+0-0
+15-Love
+15-15
+15-30
+15-40
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+15-15
+15-30
+15-40
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 24
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+Love-40
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+Love-30
+15-30
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 25
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+Adv. B
+Deuce
+Adv. A
+Deuce
+Adv. A
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+===========================NOVO JOGO================================
+Jogo 26
+Primeira Partida:
+0-0
+Love-15
+15-15
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+===========================NOVO JOGO================================
+Jogo 27
+Primeira Partida:
+0-0
+15-Love
+15-15
+30-15
+40-15
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+Love-30
+15-30
+Deuce
+Adv. B
+Deuce
+Adv. B
+B wins
+Devido ao empate -> Terceira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+40-15
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 28
+Primeira Partida:
+0-0
+Love-15
+15-15
+30-15
+40-15
+A wins
+Segunda Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 29
+Primeira Partida:
+0-0
+15-Love
+30-Love
+30-15
+40-15
+Adv. A
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+30-15
+40-15
+Adv. A
+Deuce
+Adv. A
+A wins
+===========================NOVO JOGO================================
+Jogo 30
+Primeira Partida:
+0-0
+15-Love
+30-Love
+40-Love
+A wins
+Segunda Partida:
+0-0
+Love-15
+15-15
+15-30
+15-40
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. B
+Deuce
+Adv. A
+A wins
+=========================Relatorios 30 Partidas==============================
+Jogos ganhos por A: 20
+Jogos ganhos por B: 10
+Primeiros sets ganhos por A:28
+Primeiros sets ganhos por B: 2
+Segundos sets ganhos por A: 12
+Segundos sets ganhos por B: 18
+Terceiros sets ganhos por A: 8
+Terceiro sets ganhos por B: 8
+Numero de terceiros sets que teve: 16
+
+========Probabilidades=========
+Probabilidade de A ganhar: 0.6666666666666666
+Probabilidade de B ganhar: 0.3333333333333333
+Probabilidade de A ganhar a Partida 1: 0.9333333333333333
+Probabilidade de B ganhar a Partida 1: 0.06666666666666667
+Probabilidade de A ganhar a Partida 2: 0.4
+Probabilidade de B ganhar a Partida 2: 0.6
+
+========Medias========
+Media de pontos de A: 10.0
+Media de pontos de B: 8.0
+Media de partidas ganhas por A: 0.5263157894736842
+Media de partidas ganhas por B: 0.2631578947368421
+
+========Desvio Padrao========
+Desvio de partidas ganhas por A: 0.4900181488203267
+Desvio de partidas ganhas por B: 0.7622504537205083
+
+=========================Relatorios 10 Partidas==============================
+Jogos ganhos por A: 8
+Jogos ganhos por B: 2
+Primeiros sets ganhos por A:10
+Primeiros sets ganhos por B: 0
+Segundos sets ganhos por A: 5
+Segundos sets ganhos por B: 5
+Terceiros sets ganhos por A: 3
+Terceiro sets ganhos por B: 2
+Numero de terceiros sets que teve: 5
+
+========Probabilidades=========
+Probabilidade de A ganhar: 0.8
+Probabilidade de B ganhar: 0.2
+Probabilidade de A ganhar a Partida 1: 1.0
+Probabilidade de B ganhar a Partida 1: 0.0
+Probabilidade de A ganhar a Partida 2: 0.5
+Probabilidade de B ganhar a Partida 2: 0.5
+
+========Medias========
+Media de partidas ganhas por A: 0.6
+Media de partidas ganhas por B: 0.2
+
+========Desvio Padrao========
+Desvio de partidas ganhas por A: 0.5263157894736843
+Desvio de partidas ganhas por B: 0.8187134502923977
