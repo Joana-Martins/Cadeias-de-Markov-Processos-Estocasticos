@@ -42,7 +42,7 @@ java index
 4 - Os resultados estarão na pasta
 
 ## Gráfico Auxiliar
-![Gráfico comparativo](https://docs.google.com/document/d/e/2PACX-1vSndGXzJuh8jKjRNkjujseLUIR30nWh0_M8bbljupFjOf-AO_j9dLVDZ0NuxD-4KAKE5ONIprAcyTly/pub)
+![grafico](https://user-images.githubusercontent.com/44272378/158293219-aa12f31a-e9c9-4c59-a2c1-54d79967066f.png)
 
 ## Meta
 
